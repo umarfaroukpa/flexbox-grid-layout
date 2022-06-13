@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-size: 18px;
+    
+}
+
+ion-icon {
+    color: blue;
+  }
