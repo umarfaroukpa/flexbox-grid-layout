@@ -1,0 +1,247 @@
+
+body{
+    font-size: 18px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
+.huddle{
+    margin-left: -30px;
+    margin-top: -34px;
+    font-weight: bolder;
+}
+.try{
+    margin-left: 280px;
+    margin-top: -60px;
+    background: white;
+    border-radius: 50px;
+    height: 30px;
+    width: 150px;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+ion-icon{
+    background: white;
+    color: hsl(322, 100%, 66%);
+    margin-left: -47px;
+}
+
+.build{
+    margin-top: 30px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.huddlre{
+    font-size: 20px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 250px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 60px;
+    border-radius: 50px;
+    border: none;
+    background: hsl(322, 100%, 66%);
+    color: white;
+}
+
+.header,.hero{
+    background: hsl(193, 100%, 96%);
+    padding: 70px;
+   
+}
+
+.hero{
+    background-image: url("./layoutfolder/bg-hero-mobile.svg");
+    height: 600px;
+    width: 375px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+}
+
+img{
+    margin-left: 20px;
+    height: 300px;
+    width: 350px;
+    margin-top: 30px;
+}
+
+.grow-img{
+    margin-top: -50px;
+    margin-left: 60px;
+    width: 200px;
+    height: 180px;
+}
+
+.grow-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 70px;
+    margin-top: 50px;
+    margin-left: -68px;
+    width: 370px;
+    height: 350px;
+    box-shadow: 0 4px 8px 0 rgba(193, 175, 175, 0.2), 0 6px 20px 0 rgba(193, 180, 180, 0.2);
+}
+
+.grow{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 100px;
+}
+
+.takes{
+    margin-top: -10px;
+}
+.flowing-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 70px;
+    margin-top: 50px;
+    margin-left: -68px;
+    width: 370px;
+    height: 350px;
+    box-shadow: 0 4px 8px 0 rgba(193, 175, 175, 0.2), 0 6px 20px 0 rgba(193, 180, 180, 0.2);
+}
+
+.flowing-img{
+    margin-top: -50px;
+    margin-left: 60px;
+    width: 200px;
+    height: 180px;
+}
+
+.flowing{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 100px;
+
+}
+
+.you{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: -10px;
+}
+.your-users{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 70px;
+    margin-top: -100px;
+    margin-left: -68px;
+    width: 370px;
+    height: 350px;
+    box-shadow: 0 4px 8px 0 rgba(193, 175, 175, 0.2), 0 6px 20px 0 rgba(193, 180, 180, 0.2);
+}
+
+.users-img{
+    margin-top: 900px;
+    margin-left: 60px;
+    width: 200px;
+    height: 180px;
+}
+
+.users{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: px
+}
+
+.it-takes{
+    text-align: center;
+    margin-top: -10px;
+}
+
+.ready{
+    margin-top: 150px;
+    margin-bottom: -250px;
+    width: 450px;
+    height: 350px;
+    border-radius: 20px;
+    margin-left: px;
+    box-shadow: 0 4px 8px 0 rgba(193, 175, 175, 0.2), 0 6px 20px 0 rgba(193, 180, 180, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.btn2{
+    background: hsl(322, 100%, 66%);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 250px;
+    height: 40px;
+    border-radius: 50px;
+    
+}
+
+footer{
+    height: 280px;
+    width: 375px;
+    margin-bottom: 400px;
+    background: #00252E;
+    margin-left: px;
+    color: white;
+    padding: 70px;
+    text-align: center;
+   
+}
+
+.huddlle{
+    margin-top: -70px;
+}
+
+
+.copy{
+   
+    margin-bottom: -00px;
+}
+
+.about{
+    margin-left:px;
+    margin-top: px;
+}
+
+.carrier{
+    margin-left: px;
+    margin-top: px;
+}
+
+.social{
+    display: flex;
+    justify-content: space-around;
+    margin-left: px;
+    margin-top: px;
+}
+.icon{
+    margin-left: -150px;
+    margin-bottom: 32px;
+}
+
